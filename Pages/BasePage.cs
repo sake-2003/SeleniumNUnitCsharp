@@ -22,8 +22,7 @@ namespace SeleniumNUnitCsharp.Pages
         public IWebElement LocateElement(By locator) => Driver.FindElement(locator);
         public void Click(By locator) => LocateElement(locator).Click();
         public void SetText(By locator, string text) => LocateElement(locator).SendKeys(text);
-
         public bool IsElementDisplayed(By locator) => Wait.Until(ExpectedConditions.ElementIsVisible(locator)).Displayed;
-        //public bool IsElementDisplayed2(By locator) => Wait.Until(ExpectedConditions.VisibilityOfAllElementsLocatedBy(locator)).Displayed;
+ 
     }
 }

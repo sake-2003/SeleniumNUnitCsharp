@@ -17,8 +17,10 @@ namespace SeleniumNUnitCsharp.Pages
             Driver.Navigate().GoToUrl(HomePage_URL);
         }*/
         public void GoTo() => Driver.Navigate().GoToUrl(HomePage_URL);
+        public bool IsPageTitleCorrect() => Driver.Title.Equals(Title);
 
         private const string HomePage_URL = "https://www.aliexpress.com/";
+        private const string Title = "AliExpress";
 
     }
 }
