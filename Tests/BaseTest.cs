@@ -1,5 +1,6 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using SeleniumNUnitCsharp.Pages;
 using System;
 using WebDriverManager.DriverConfigs.Impl;
 
@@ -7,14 +8,13 @@ namespace SeleniumNUnitCsharp.Tests.Tests
 {
     public class BaseTest
     {
-        public IWebDriver driver;
-
         [SetUp]
         public void Setup()
         {
             new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
             driver = new ChromeDriver();
-            driver.Navigate().GoToUrl("https://www.aliexpress.com/");
+            eCommerceHomePage = new HomePage(driver);
+            eCommerceHomePage.GoTo();
         }
 
         [TearDown]
@@ -26,5 +26,8 @@ namespace SeleniumNUnitCsharp.Tests.Tests
             driver.Dispose();
 
         }
+
+        public IWebDriver driver;
+        protected HomePage eCommerceHomePage;
     }
 }
