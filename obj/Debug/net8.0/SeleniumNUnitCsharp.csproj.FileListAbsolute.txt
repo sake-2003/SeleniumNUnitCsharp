@@ -105,3 +105,4 @@ C:\Users\Roberto Carlos\source\repos\SeleniumNUnitCsharp\obj\Debug\net8.0\ref\Se
 C:\Users\Roberto Carlos\source\repos\SeleniumNUnitCsharp\bin\Debug\net8.0\AngleSharp.dll
 C:\Users\Roberto Carlos\source\repos\SeleniumNUnitCsharp\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
 C:\Users\Roberto Carlos\source\repos\SeleniumNUnitCsharp\bin\Debug\net8.0\WebDriverManager.dll
+C:\Users\Roberto Carlos\source\repos\SeleniumNUnitCsharp\obj\Debug\net8.0\SeleniumNUnitCsharp.sourcelink.json

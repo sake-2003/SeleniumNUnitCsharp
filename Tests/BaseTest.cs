@@ -3,18 +3,18 @@ using OpenQA.Selenium.Chrome;
 using System;
 using WebDriverManager.DriverConfigs.Impl;
 
-namespace SeleniumNUnitCsharp
+namespace SeleniumNUnitCsharp.Tests.Tests
 {
     public class BaseTest
     {
-        public IWebDriver? driver;
+        public IWebDriver driver;
 
         [SetUp]
         public void Setup()
         {
             new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
             driver = new ChromeDriver();
-            driver.Navigate().GoToUrl("https://www.browserstack.com/");
+            driver.Navigate().GoToUrl("https://www.aliexpress.com/");
         }
 
         [TearDown]
@@ -24,7 +24,7 @@ namespace SeleniumNUnitCsharp
         {
             driver.Quit();
             driver.Dispose();
-            
+
         }
     }
 }
