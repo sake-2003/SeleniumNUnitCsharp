@@ -10,12 +10,13 @@ namespace SeleniumNUnitCsharp.Pages
     public class HomePage : BasePage
     {
         public HomePage(IWebDriver driver) : base(driver) { }
-    
 
-        public void GoTo() 
+
+        /*public void GoTo() 
         {
             Driver.Navigate().GoToUrl(HomePage_URL);
-        }
+        }*/
+        public void GoTo() => Driver.Navigate().GoToUrl(HomePage_URL);
 
         private const string HomePage_URL = "https://www.aliexpress.com/";
 
