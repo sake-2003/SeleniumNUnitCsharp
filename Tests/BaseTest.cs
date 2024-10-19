@@ -5,7 +5,7 @@ using System;
 using WebDriverManager.DriverConfigs.Impl;
 using SeleniumNUnitCsharp.Driver;
 
-namespace SeleniumNUnitCsharp.Tests.Tests
+namespace SeleniumNUnitCsharp.Tests
 {
     public class BaseTest
     {

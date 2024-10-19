@@ -1,7 +1,7 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using SeleniumNUnitCsharp.Pages;
-using SeleniumNUnitCsharp.Tests.Tests;
+
 using System;
 using WebDriverManager.DriverConfigs.Impl;
 
