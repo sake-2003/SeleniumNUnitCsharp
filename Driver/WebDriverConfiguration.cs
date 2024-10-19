@@ -24,6 +24,7 @@ namespace SeleniumNUnitCsharp.Driver
         { 
             var options = new EdgeOptions();
             options.AddArgument("start-maximized");
+            //options.AddArgument("headless");
             return options;
         }
     }

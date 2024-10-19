@@ -31,7 +31,7 @@ namespace SeleniumNUnitCsharp.Driver
                     return firefoxDriver;
 
                 case "Edge":
-                    new DriverManager().SetUpDriver(new EdgeConfig());
+                    new DriverManager().SetUpDriver(new LegacyEdgeConfig());
                     var edgeDriver = new EdgeDriver(WebDriverConfiguration.EdgeOptions());
                     return edgeDriver;
 

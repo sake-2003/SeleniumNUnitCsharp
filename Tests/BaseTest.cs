@@ -4,6 +4,7 @@ using SeleniumNUnitCsharp.Pages;
 using System;
 using WebDriverManager.DriverConfigs.Impl;
 using SeleniumNUnitCsharp.Driver;
+using OpenQA.Selenium.Edge;
 
 namespace SeleniumNUnitCsharp.Tests
 {
@@ -12,9 +13,9 @@ namespace SeleniumNUnitCsharp.Tests
         [SetUp]
         public void Setup()
         {
-            //new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
-            //driver = new ChromeDriver();
-            driver = new WebDriverSetup().GetWebDriver("Firefox");
+            //new WebDriverManager.DriverManager().SetUpDriver(new LegacyEdgeConfig());
+            //driver = new EdgeDriver();
+            driver = new WebDriverSetup().GetWebDriver("Edge");
             eCommerceHomePage = new HomePage(driver);
             eCommerceHomePage.GoTo();
         }
