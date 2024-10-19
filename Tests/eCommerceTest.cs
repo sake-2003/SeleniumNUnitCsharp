@@ -26,7 +26,7 @@ namespace SeleniumNUnitCsharp.Tests
             eCommerceHomePage.IsPageTitleCorrect();
             navBar.searchItem(itemToSearch);
             itemsList.ClickOnMatchedItem();
-            Thread.Sleep(10000);
+            Thread.Sleep(5000);
 
         }
 
