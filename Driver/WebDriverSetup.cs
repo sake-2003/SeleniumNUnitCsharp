@@ -9,7 +9,7 @@ using WebDriverManager.DriverConfigs.Impl;
 
 namespace SeleniumNUnitCsharp.Driver
 {
-    public class DriverSetup
+    public class WebDriverSetup
     {
         public IWebDriver GetWebDriver(string BrowserName)
         {

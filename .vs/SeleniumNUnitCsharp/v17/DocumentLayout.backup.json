@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\driver\\driversetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:driver\\driversetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\driver\\webdriverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:driver\\webdriverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\driver\\webdriversetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:driver\\webdriversetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\tests\\ecommercetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:tests\\ecommercetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\driver\\webdriverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:driver\\webdriverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\tests\\ecommercetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:tests\\ecommercetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\pages\\itemslistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WebDriverConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Driver\\WebDriverConfiguration.cs",
               "RelativeDocumentMoniker": "Driver\\WebDriverConfiguration.cs",
@@ -64,12 +64,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DriverSetup.cs",
-              "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Driver\\DriverSetup.cs",
-              "RelativeDocumentMoniker": "Driver\\DriverSetup.cs",
-              "ToolTip": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Driver\\DriverSetup.cs",
-              "RelativeToolTip": "Driver\\DriverSetup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "Title": "WebDriverSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Driver\\WebDriverSetup.cs",
+              "RelativeDocumentMoniker": "Driver\\WebDriverSetup.cs",
+              "ToolTip": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Driver\\WebDriverSetup.cs",
+              "RelativeToolTip": "Driver\\WebDriverSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T03:43:32.589Z",
               "EditorCaption": ""
@@ -112,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "BasePage.cs",
               "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Pages\\BasePage.cs",
               "RelativeDocumentMoniker": "Pages\\BasePage.cs",
@@ -125,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BaseTest.cs",
               "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Tests\\BaseTest.cs",
               "RelativeDocumentMoniker": "Tests\\BaseTest.cs",
@@ -138,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "eCommerceTest.cs",
               "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Tests\\eCommerceTest.cs",
               "RelativeDocumentMoniker": "Tests\\eCommerceTest.cs",
