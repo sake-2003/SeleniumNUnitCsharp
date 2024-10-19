@@ -3,6 +3,7 @@ using OpenQA.Selenium.Chrome;
 using SeleniumNUnitCsharp.Pages;
 using System;
 using WebDriverManager.DriverConfigs.Impl;
+using SeleniumNUnitCsharp.Driver;
 
 namespace SeleniumNUnitCsharp.Tests.Tests
 {
@@ -11,8 +12,9 @@ namespace SeleniumNUnitCsharp.Tests.Tests
         [SetUp]
         public void Setup()
         {
-            new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
-            driver = new ChromeDriver();
+            //new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
+            //driver = new ChromeDriver();
+            driver = new DriverSetup().GetWebDriver("Chrome");
             eCommerceHomePage = new HomePage(driver);
             eCommerceHomePage.GoTo();
         }
