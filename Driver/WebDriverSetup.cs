@@ -13,13 +13,13 @@ namespace SeleniumNUnitCsharp.Driver
     {
         public IWebDriver GetWebDriver(string BrowserName)
         {
-            IWebDriver driver;
+            //IWebDriver driver;
             
             switch (BrowserName)
             {
                 case "Chrome":
                    new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
-                   driver = new ChromeDriver(WebDriverConfiguration.ChromeOptions());
+                   var driver = new ChromeDriver(WebDriverConfiguration.ChromeOptions());
                    return driver;
                 
                 default:
