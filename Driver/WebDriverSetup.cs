@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Firefox;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,9 +20,14 @@ namespace SeleniumNUnitCsharp.Driver
             {
                 case "Chrome":
                    new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
-                   var driver = new ChromeDriver(WebDriverConfiguration.ChromeOptions());
-                   return driver;
-                
+                   var chromeDriver = new ChromeDriver(WebDriverConfiguration.ChromeOptions());
+                   return chromeDriver;
+
+                case "Firefox":
+                    new WebDriverManager.DriverManager().SetUpDriver(new FirefoxConfig());
+                    var firefoxDriver = new FirefoxDriver();
+                    return firefoxDriver;
+
                 default:
                     throw new ArgumentOutOfRangeException();
 

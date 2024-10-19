@@ -14,7 +14,7 @@ namespace SeleniumNUnitCsharp.Tests
         {
             //new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
             //driver = new ChromeDriver();
-            driver = new WebDriverSetup().GetWebDriver("Chrome");
+            driver = new WebDriverSetup().GetWebDriver("Firefox");
             eCommerceHomePage = new HomePage(driver);
             eCommerceHomePage.GoTo();
         }
