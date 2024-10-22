@@ -13,8 +13,6 @@ namespace SeleniumNUnitCsharp.Tests
         [SetUp]
         public void Setup()
         {
-            //new WebDriverManager.DriverManager().SetUpDriver(new LegacyEdgeConfig());
-            //driver = new EdgeDriver();
             driver = new WebDriverSetup().GetWebDriver("Edge");
             eCommerceHomePage = new HomePage(driver);
             eCommerceHomePage.GoTo();
@@ -27,7 +25,6 @@ namespace SeleniumNUnitCsharp.Tests
         {
             driver.Quit();
             driver.Dispose();
-
         }
 
         public IWebDriver driver;

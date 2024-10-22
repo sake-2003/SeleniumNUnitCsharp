@@ -11,19 +11,16 @@ namespace SeleniumNUnitCsharp.Pages
     {
         public ItemsListPage(IWebDriver driver) : base(driver) { }
 
-        public void ClickOnMatchedItem()
+        public void ClickOnFirstItem()
         {
-
-            var elements = Driver.FindElements(itemLocator);
-            var theElement = elements.FirstOrDefault(e => e.Text.Contains("playstation 5"));
-
-            if (theElement != null)
-            {
-                theElement.Click();
-            }
-            
+            IsElementDisplayed(cardList);
+            var firstItem = LocateElement(firstItemLocator);
+            //Assert.IsTrue(firstItem.GetAttribute("Title").Equals("* playstation 5 *"));
+            Click(firstItemLocator);
         }
 
-        By itemLocator => By.ClassName("multi--title--G7dOCj3");
+        By cardList => By.Id("card-list");
+        By firstItemLocator => By.CssSelector("#card-list > div:nth-child(1) > div > div > a > div.multi--content--11nFIBL > div.multi--title--G7dOCj3");
+
     }
 }

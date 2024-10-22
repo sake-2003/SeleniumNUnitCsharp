@@ -16,6 +16,7 @@ namespace SeleniumNUnitCsharp.Driver
             options.AddArgument("--disable-save-password-bubble");
             options.AddArgument("ignore-certificate-errors");
             options.AddArgument("start-maximized");
+            options.AddArguments("--no-sandbox");
 
             return options;
         }
@@ -23,8 +24,8 @@ namespace SeleniumNUnitCsharp.Driver
         public static EdgeOptions EdgeOptions()
         { 
             var options = new EdgeOptions();
+            options.AddArgument("ignore-certificate-errors");
             options.AddArgument("start-maximized");
-            //options.AddArgument("headless");
             return options;
         }
     }

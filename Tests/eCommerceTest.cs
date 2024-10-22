@@ -26,9 +26,8 @@ namespace SeleniumNUnitCsharp.Tests
 
             eCommerceHomePage.IsPageTitleCorrect();
             navBar.searchItem(itemToSearch);
-            itemsList.ClickOnMatchedItem();
+            itemsList.ClickOnFirstItem();
             Thread.Sleep(5000);
-
         }
 
         private const string itemToSearch = "playstation 5";
