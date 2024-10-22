@@ -22,13 +22,10 @@ namespace SeleniumNUnitCsharp.Pages
 
             WaitElementToDisplay(subsNotification);
             Click(doNotAllowBtn);
-            //if (IsElementDisplayed(subsNotification)) { 
-            //    Click(doNotAllowBtn);
-            //}
         }
 
-        public By subsNotification = By.CssSelector("._1u9ll");
-        public By doNotAllowBtn = By.CssSelector((".Sk1_X"));
+        private By subsNotification = By.CssSelector("._1u9ll");
+        private By doNotAllowBtn = By.CssSelector((".Sk1_X"));
 
         private const string HomePage_URL = "https://www.aliexpress.com/";
         private const string Title = "AliExpress";

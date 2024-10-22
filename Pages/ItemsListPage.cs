@@ -14,13 +14,16 @@ namespace SeleniumNUnitCsharp.Pages
         public void ClickOnFirstItem()
         {
             IsElementDisplayed(cardList);
-            var firstItem = LocateElement(firstItemLocator);
-            //Assert.IsTrue(firstItem.GetAttribute("Title").Equals("* playstation 5 *"));
+            IsElementDisplayed(firstItemLocator);
+            
+            var firstItemTitle = LocateElement(firstItemLocator).GetAttribute("Title").ToLower();
+
+            Console.WriteLine(firstItemTitle);
+            StringAssert.Contains("playstation 5", firstItemTitle, "First item does not contain searched item");
             Click(firstItemLocator);
         }
 
-        By cardList => By.Id("card-list");
-        By firstItemLocator => By.CssSelector("#card-list > div:nth-child(1) > div > div > a > div.multi--content--11nFIBL > div.multi--title--G7dOCj3");
-
+        private By cardList => By.Id("card-list");
+        private By firstItemLocator => By.CssSelector("#card-list > div:nth-child(1) > div > div > a > div.multi--content--11nFIBL > div.multi--title--G7dOCj3");
     }
 }
