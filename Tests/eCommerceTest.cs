@@ -17,6 +17,7 @@ namespace SeleniumNUnitCsharp.Tests
         {
             navBar = new NavigationBar(driver);
             itemsList = new ItemsListPage(driver);
+            eCommerceHomePage.DoNotSubscribe();
         }
 
         [Test]
