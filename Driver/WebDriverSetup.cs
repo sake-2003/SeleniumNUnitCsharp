@@ -2,6 +2,7 @@
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Firefox;
+using SeleniumNUnitCsharp.Utility;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,11 +15,9 @@ namespace SeleniumNUnitCsharp.Driver
 {
     public class WebDriverSetup
     {
-        public IWebDriver GetWebDriver(string BrowserName)
-        {
-            //IWebDriver driver;
-            
-            switch (BrowserName)
+        public IWebDriver GetWebDriver(WebDriverProperties driverConfig)
+        {           
+            switch (driverConfig.BrowserName)
             {
                 case "Chrome":
                    new DriverManager().SetUpDriver(new ChromeConfig());

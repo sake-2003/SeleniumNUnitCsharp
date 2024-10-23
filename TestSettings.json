@@ -1,0 +1,6 @@
+{
+  "webdriver": {
+    "BrowserName": "Chrome",
+    "Environment": "PROD"
+  }
+}

@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\pages\\navigationbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:pages\\navigationbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\driver\\webdriversetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:driver\\webdriversetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\pages\\itemslistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:pages\\itemslistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\utility\\readconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:utility\\readconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\utility\\webdriverproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:utility\\webdriverproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\tests\\ecommercetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:tests\\ecommercetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\driver\\webdriversetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:driver\\webdriversetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\testsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:testsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\driver\\webdriverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +29,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\seleniumnunitcsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:seleniumnunitcsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\pages\\itemslistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:pages\\itemslistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\pages\\navigationbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:pages\\navigationbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|solutionrelative:pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1DF7E29-FC55-4D5F-8866-57AEB6BF8E57}|SeleniumNUnitCsharp.csproj|c:\\users\\roberto carlos\\source\\repos\\seleniumnunitcsharp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -54,7 +70,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "WebDriverProperties.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Utility\\WebDriverProperties.cs",
+              "RelativeDocumentMoniker": "Utility\\WebDriverProperties.cs",
+              "ToolTip": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Utility\\WebDriverProperties.cs",
+              "RelativeToolTip": "Utility\\WebDriverProperties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:38:00.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Utility\\ReadConfiguration.cs",
+              "RelativeDocumentMoniker": "Utility\\ReadConfiguration.cs",
+              "ToolTip": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Utility\\ReadConfiguration.cs*",
+              "RelativeToolTip": "Utility\\ReadConfiguration.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:10:32.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestSettings.json",
+              "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\TestSettings.json",
+              "RelativeDocumentMoniker": "TestSettings.json",
+              "ToolTip": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\TestSettings.json",
+              "RelativeToolTip": "TestSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T05:07:47.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -66,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "WebDriverConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Driver\\WebDriverConfiguration.cs",
               "RelativeDocumentMoniker": "Driver\\WebDriverConfiguration.cs",
@@ -79,46 +134,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "WebDriverSetup.cs",
               "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Driver\\WebDriverSetup.cs",
               "RelativeDocumentMoniker": "Driver\\WebDriverSetup.cs",
-              "ToolTip": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Driver\\WebDriverSetup.cs",
-              "RelativeToolTip": "Driver\\WebDriverSetup.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAA+AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Driver\\WebDriverSetup.cs*",
+              "RelativeToolTip": "Driver\\WebDriverSetup.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T03:43:32.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "BaseTest.cs",
               "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Tests\\BaseTest.cs",
               "RelativeDocumentMoniker": "Tests\\BaseTest.cs",
               "ToolTip": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Tests\\BaseTest.cs",
               "RelativeToolTip": "Tests\\BaseTest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T03:52:27.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "eCommerceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Tests\\eCommerceTest.cs",
+              "RelativeDocumentMoniker": "Tests\\eCommerceTest.cs",
+              "ToolTip": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Tests\\eCommerceTest.cs",
+              "RelativeToolTip": "Tests\\eCommerceTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:48:23.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeleniumNUnitCsharp.csproj",
+              "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\SeleniumNUnitCsharp.csproj",
+              "RelativeDocumentMoniker": "SeleniumNUnitCsharp.csproj",
+              "ToolTip": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\SeleniumNUnitCsharp.csproj",
+              "RelativeToolTip": "SeleniumNUnitCsharp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T05:06:41.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ItemsListPage.cs",
               "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Pages\\ItemsListPage.cs",
               "RelativeDocumentMoniker": "Pages\\ItemsListPage.cs",
               "ToolTip": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Pages\\ItemsListPage.cs",
               "RelativeToolTip": "Pages\\ItemsListPage.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T23:20:12.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T23:20:12.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "NavigationBar.cs",
               "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Pages\\NavigationBar.cs",
               "RelativeDocumentMoniker": "Pages\\NavigationBar.cs",
@@ -126,12 +205,11 @@
               "RelativeToolTip": "Pages\\NavigationBar.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T22:40:44.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T22:40:44.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "HomePage.cs",
               "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Pages\\HomePage.cs",
               "RelativeDocumentMoniker": "Pages\\HomePage.cs",
@@ -139,12 +217,11 @@
               "RelativeToolTip": "Pages\\HomePage.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAuwBcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:41:29.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T17:41:29.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "BasePage.cs",
               "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Pages\\BasePage.cs",
               "RelativeDocumentMoniker": "Pages\\BasePage.cs",
@@ -152,21 +229,7 @@
               "RelativeToolTip": "Pages\\BasePage.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:37:47.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "eCommerceTest.cs",
-              "DocumentMoniker": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Tests\\eCommerceTest.cs",
-              "RelativeDocumentMoniker": "Tests\\eCommerceTest.cs",
-              "ToolTip": "C:\\Users\\Roberto Carlos\\source\\repos\\SeleniumNUnitCsharp\\Tests\\eCommerceTest.cs",
-              "RelativeToolTip": "Tests\\eCommerceTest.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T00:48:23.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T17:37:47.543Z"
             }
           ]
         }
