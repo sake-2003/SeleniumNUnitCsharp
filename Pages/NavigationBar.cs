@@ -17,8 +17,8 @@ namespace SeleniumNUnitCsharp.Pages
             Click(submitBtnLocator);
         }
 
-        public By searchBarLocator => By.Id("search-words");
-        public By submitBtnLocator => By.ClassName("search--submit--2VTbd-T");
+        private By searchBarLocator => By.Id("search-words");
+        private By submitBtnLocator => By.ClassName("search--submit--2VTbd-T");
     }
     
 }

@@ -1,4 +1,5 @@
 ﻿using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Edge;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,7 +16,16 @@ namespace SeleniumNUnitCsharp.Driver
             options.AddArgument("--disable-save-password-bubble");
             options.AddArgument("ignore-certificate-errors");
             options.AddArgument("start-maximized");
+            options.AddArguments("--no-sandbox");
 
+            return options;
+        }
+
+        public static EdgeOptions EdgeOptions()
+        { 
+            var options = new EdgeOptions();
+            options.AddArgument("ignore-certificate-errors");
+            options.AddArgument("start-maximized");
             return options;
         }
     }

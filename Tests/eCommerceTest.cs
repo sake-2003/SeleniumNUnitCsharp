@@ -17,6 +17,7 @@ namespace SeleniumNUnitCsharp.Tests
         {
             navBar = new NavigationBar(driver);
             itemsList = new ItemsListPage(driver);
+            eCommerceHomePage.DoNotSubscribe();
         }
 
         [Test]
@@ -25,9 +26,8 @@ namespace SeleniumNUnitCsharp.Tests
 
             eCommerceHomePage.IsPageTitleCorrect();
             navBar.searchItem(itemToSearch);
-            itemsList.ClickOnMatchedItem();
-            Thread.Sleep(10000);
-
+            itemsList.ClickOnFirstItem();
+            Thread.Sleep(5000);
         }
 
         private const string itemToSearch = "playstation 5";
