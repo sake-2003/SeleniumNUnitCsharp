@@ -14,7 +14,7 @@ namespace SeleniumNUnitCsharp.Pages
         public BasePage(IWebDriver driver) 
         {
             Driver = driver;
-            //js = (IJavaScriptExecutor)driver;
+            //js = (IJavaScriptExecutor)driver; comment
             Wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
         }
         public IWebDriver Driver { get; set; }
